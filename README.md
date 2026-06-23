@@ -19,8 +19,8 @@ MBA Finance | Data & Financial Analyst
 - Data Analyst Jobs Intelligence Platform
 
 ### Financial Modeling
-- ABC Pizza Three Statement Model
-- ABC Pizza DCF Valuation Model
+- Quick Service Restaurent company Three Statement Model
+- Quick Service Restaurent company DCF Valuation Model
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/aryan-pashte-5280swami
